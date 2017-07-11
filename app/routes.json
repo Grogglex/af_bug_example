@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/home/",
+    "component": "home.vue"
+  },
+  {
+    "path": "/secondpage/",
+    "component": "secondpage.vue"
+  },
+  {
+    "path": "/thirdpage/",
+    "component": "thirdpage.vue"
+  }
+]
